@@ -1,0 +1,26 @@
+south
+take astronaut ice cream
+north
+east
+take mouse
+north
+take spool of cat6
+north
+take hypercube
+east
+take sand
+south
+take antenna
+north
+west
+south
+south
+south
+take mutex
+west
+take boulder
+south
+south
+south
+west
+south
